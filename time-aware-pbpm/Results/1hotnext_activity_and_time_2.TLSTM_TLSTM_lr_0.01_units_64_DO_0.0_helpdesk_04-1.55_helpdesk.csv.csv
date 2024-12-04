@@ -1,0 +1,1 @@
+CaseID,Prefix length,Ground truth,Predicted,Confidence,Levenshtein,Damerau,Jaccard,Ground truth times,Predicted times,RMSE,MAE
